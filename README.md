@@ -19,6 +19,7 @@ Com a ajuda da Next Level Week #1, este projeto foi criado com o objetivo de est
 ![Image description](imgs/cadastro-1.png)
 ![Image description](imgs/cadastro-2.png)
 ![Image description](imgs/cadastro-3.png)
+![Image description](imgs/cadastro-4.png)
 
 ## Home | Mobile
 
