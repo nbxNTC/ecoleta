@@ -24,4 +24,12 @@ Com a ajuda da Next Level Week #1, este projeto foi criado com o objetivo de est
 
 ## Home | Mobile
 
-![Image description](imgs/mobile-home.png)
+![Image description](imgs/mobile-home.png | width=100)
+
+## Pontos de Coleta | Mobile
+
+![Image description](imgs/mobile-show.png | width=100)
+
+## Detalhes do Ponto de Coleta | Mobile
+
+![Image description](imgs/mobile-details.png | width=100)
