@@ -1,6 +1,6 @@
 # Projeto Ecoleta
 
-Com a ajuda da Next Level Week #1, este projeto foi criado com o objetivo de estudar as tecnologias mais utilizadas do mercado.
+Com a ajuda da Next Level Week #1, este projeto foi criado com o objetivo de estudar as tecnologias mais utilizadas do mercado e criar uma aplicação que tem o objetivo de melhorar a coleta de resíduos em sua cidade. Entidades podem criar pontos de coleta de determinados tipos de resíduos e as pessoas podem utilizar o aplicativo mobile para encontrar ou entrar em contato com essas entidades.
 
 ## Tecnologias
 
@@ -9,3 +9,17 @@ Com a ajuda da Next Level Week #1, este projeto foi criado com o objetivo de est
 - React
 - React Native
 - SQLite
+
+## Home | Web
+
+![Image description](imgs/home.png)
+
+## Cadastro do Ponto de Coleta | Web
+
+![Image description](imgs/cadastro-1.png)
+![Image description](imgs/cadastro-2.png)
+![Image description](imgs/cadastro-3.png)
+
+## Home | Mobile
+
+![Image description](imgs/mobile-home.png)
